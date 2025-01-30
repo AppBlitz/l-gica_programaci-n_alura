@@ -1,1 +1,3 @@
-# l-gica_programaci-n_alura
+# Lógica de programación
+
+## Descripción
