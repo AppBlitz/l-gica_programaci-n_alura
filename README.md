@@ -12,7 +12,7 @@
 
 \*[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-\*[Conclusión](#conclusión)
+\*[P+agina](#Página) \*[Conclusión](#conclusión)
 
 ## descripción del proyecto
 
@@ -45,6 +45,12 @@ Se utiliza `live-server` para poder abrirlo
 - `HTML`
 - `CSS`
 - `javaScript`
+
+## Página
+
+- `Vinculo:` https://appblitz.github.io/l-gica_programaci-n_alura/
+
+- `Código QR:`
 
 ## Conlusión
 
