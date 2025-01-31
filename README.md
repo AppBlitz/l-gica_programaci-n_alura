@@ -2,6 +2,30 @@
 
 ![Amigo secreto ](https://github.com/user-attachments/assets/14df6fb6-3274-4588-b6e3-486963ea4844)
 
-_[Descripción del proyecto](Proyecto en desarrollo para alura, el proyecto esta en desarrollo, permite escoger jugar amigo secreto)
-_[Estado](Desarrollo)
-*[]()
+\*[Índice](#índice)
+
+\*[Descripción del proyecto](#descripción-del-proyecto)
+
+\*[Estado del proyecto](#Estado-del-proyecto)
+
+\*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+\*[Acceso al proyecto](#acceso-proyecto)
+
+\*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+\*[Personas Contribuyentes](#personas-contribuyentes)
+
+\*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+- [Licencia](#licencia)
+
+\*[Conclusión](#conclusión)
+
+## descripción-del-proyecto
+
+Proyecto desarrollado para alura latam, es un proyecto que pemrite el monitoreo para jugar amigo secreto
+
+## Estado-del-proyecto
+
+En proceso
