@@ -4,4 +4,4 @@
 
 
 
-   ![GitHub Org's stars](https://img.shields.io/github/stars/AppBlitz?style=social)
+
