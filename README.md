@@ -51,7 +51,10 @@ Se utiliza `live-server` para poder abrirlo
 - `Vinculo:` https://appblitz.github.io/l-gica_programaci-n_alura/
 
 - `Código QR:`
+- ![QR](https://github.com/user-attachments/assets/abf1711b-0edf-464f-ab5b-6b3c8c18c66f)
+  
 
 ## Conlusión
+
 
 EL juego es muy sencillo, por lo cual solo permite hacer esto cuando se va a jugar amigo secreto
