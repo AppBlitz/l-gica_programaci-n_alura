@@ -52,6 +52,8 @@ Se utiliza `live-server` para poder abrirlo
 
 - `Código QR:`
 
+<img src="./assets/play_circle_outline.png" alt="Descripción de la imagen" width="300"/>
+
 ## Conlusión
 
 EL juego es muy sencillo, por lo cual solo permite hacer esto cuando se va a jugar amigo secreto
