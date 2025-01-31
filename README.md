@@ -52,7 +52,7 @@ Se utiliza `live-server` para poder abrirlo
 
 - `Código QR:`
 
-<img src="./assets/play_circle_outline.png" alt="Descripción de la imagen" width="300"/>
+  <img src="./assets/qrcode_165626746_aa8448656870fecce96a0936b2a7b2d9.png" high="300"  width="300"/>
 
 ## Conlusión
 
